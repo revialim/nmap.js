@@ -1,12 +1,29 @@
 const fs = require('fs');
 const newFilename = process.argv[2];
 
-fileString = generateFileString2();
+fileString = generateFileStringColor();
 
 fs.writeFile(newFilename, fileString , (err) => {
   if (err) throw err;
   console.log('The file has been saved!');
 });
+
+function generateFileStringColor(){
+  console.log("generating filestring");
+  str = "id,x,y,weight,class,red,green,blue\n";
+  rects = generateRects2(150);
+  rects.forEach((rect)=>{
+    tmpStr = rect["id"] 
+      + "," + rect["x"] 
+      + "," + rect["y"] 
+      + "," + rect["weight"] 
+      + "," + rect["klass"]
+      + "," + rect["color"]
+      + "\n" ;
+    str = str.concat(tmpStr);
+  });
+  return str;
+};
 
 function generateFileString2(){
   console.log("generating filestring");

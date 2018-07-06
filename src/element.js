@@ -10,12 +10,20 @@
 * @return {object} nmap_element
 */
 var nmap_element = function(args){
+	//var defaults = {
+	//	id : 1,
+	//	klass : 1,
+	//	weight : 1,
+	//	x : 0,
+	//	y : 0
+	//};
 	var defaults = {
 		id : 1,
 		klass : 1,
 		weight : 1,
 		x : 0,
-		y : 0
+		y : 0,
+		color: [-1,-1,-1]
 	};
 
 	//merge givven arguments with default values
@@ -34,6 +42,20 @@ var nmap_element = function(args){
 	nmapper_element.attr = function(){
 		return attr;
 	};
+
+	/**
+	* return color array of the object
+	*
+	*/
+	nmapper_element.getColor = function(){return attr.color};
+
+    /**
+	* set color array of the object
+	*
+	*/
+	nmapper_element.setColor = function(color){ attr.color = color;};
+
+
 
 	/**
 	* return x value of the object
