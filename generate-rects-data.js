@@ -11,7 +11,7 @@ fs.writeFile(newFilename, fileString , (err) => {
 function generateFileStringColor(){
   console.log("generating filestring");
   str = "id,x,y,weight,class,red,green,blue\n";
-  rects = generateRects2(150);
+  rects = generateRectsTwoKinds(150);
   rects.forEach((rect)=>{
     tmpStr = rect["id"] 
       + "," + rect["x"] 
@@ -73,9 +73,9 @@ function getRandomRGB(){
   return [red, green, blue];
 }
 
-function getRandomLength(){
-  var maxLength = 300;
-  var minLength = 30;
+function getRandomLength(minLength, maxLength){
+  //var maxLength = 300;
+  //var minLength = 30;f
   return Math.floor(Math.random() * (maxLength - minLength)) + minLength;
 }
 
@@ -96,8 +96,8 @@ function generateRects(numberOfRects){
     var col = getRandomHSL();
     
     var rect = {
-      width : getRandomLength(),
-      height: getRandomLength(),
+      width : getRandomLength(30, 300),
+      height: getRandomLength(30, 300),
       hue   : col[0],
       sat   : col[1],
       light : col[2],
@@ -116,8 +116,8 @@ function generateRects2(numberOfRects){
   var rects = [];
   for(var i = 0; i < numberOfRects; i++){
     var col = getRandomRGB();
-    var width = getRandomLength();
-    var height = getRandomLength();
+    var width = getRandomLength(30, 300);
+    var height = getRandomLength(30, 300);
     
     var rect = {
       id : i,
@@ -131,6 +131,36 @@ function generateRects2(numberOfRects){
     };
     
     
+    rects.push(rect);
+  }
+  
+  return rects;
+}
+
+function generateRectsTwoKinds(numberOfRects){
+  var rects = [];
+  for(var i = 0; i < numberOfRects; i++){
+    var col = getRandomRGB();
+    //console.log("i = " + i + ", %2 = " + (i % 2));
+    var width = (i % 2 == 0)? 60 : 80;
+    var height = (i % 2 == 0)? 80 : 106;
+    //width = (i % 4 == 0)? 120 : width;
+    //height = (i % 4 == 0)? 160 : height;
+    width = width + Math.random();
+    height = height + Math.random();
+    
+    var rect = {
+      id : i,
+      x:   col[0],
+      y:   col[1],
+      weight: width*height,
+      klass : ((col[0]+col[1]+col[2])/3)/255,
+      width: width,
+      height: height,
+      color: col
+    };
+
+    //console.log("width = "+ rect.width);
     rects.push(rect);
   }
   
