@@ -1,0 +1,22 @@
+\babel@toc {german}{}
+\contentsline {section}{\numberline {1}Einf\IeC {\"u}hrung}{3}
+\contentsline {subsection}{\numberline {1.1}Versuchsaufbau}{3}
+\contentsline {subsubsection}{\numberline {1.1.1}Erstellung der Rechtecke}{4}
+\contentsline {section}{\numberline {2}\textit {Nmap}}{5}
+\contentsline {subsection}{\numberline {2.1}Algorithmus}{5}
+\contentsline {subsection}{\numberline {2.2}Implementierung und Auswertung}{6}
+\contentsline {subsubsection}{\numberline {2.2.1}Anmerkung zur Generierung der Datenpunkte}{7}
+\contentsline {subsubsection}{\numberline {2.2.2}Auswertung}{7}
+\contentsline {section}{\numberline {3}\textit {RWordle}}{8}
+\contentsline {subsection}{\numberline {3.1}Algorithmus}{8}
+\contentsline {subsection}{\numberline {3.2}Implementierung und Auswertung}{9}
+\contentsline {subsubsection}{\numberline {3.2.1}Erste Umsetzung mit Rechtecken}{10}
+\contentsline {subsubsection}{\numberline {3.2.2}Erweiterung um Umsetzung mit Bildern}{12}
+\contentsline {subsubsection}{\numberline {3.2.3}Die \texttt {updatePosition}-Funktion}{18}
+\contentsline {subsubsection}{\numberline {3.2.4}Auswertung}{19}
+\contentsline {section}{\numberline {4}\textit {PicWall}}{20}
+\contentsline {subsection}{\numberline {4.1}Algorithmus}{20}
+\contentsline {subsection}{\numberline {4.2}Implementierung und Auswertung}{21}
+\contentsline {section}{\numberline {5}Weitere untersuchte Algorithmen}{22}
+\contentsline {subsection}{\numberline {5.1}\emph {Tree-based Visualization and Optimization for Image Collection}}{22}
+\contentsline {subsection}{\numberline {5.2}\emph {Photo Layout with a Fast Evaluation Method and\IeC {\nobreakspace }Genetic Algorithm}}{22}

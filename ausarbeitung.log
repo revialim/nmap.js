@@ -1,0 +1,494 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2018.6.13)  13 OCT 2018 09:24
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**ausarbeitung.tex
+(./ausarbeitung.tex
+LaTeX2e <2018-04-01> patch level 2
+Babel <3.18> and hyphenation patterns for 22 language(s) loaded.
+(/usr/local/texlive/2018basic/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
+(/usr/local/texlive/2018basic/texmf-dist/tex/latex/base/size12.clo
+File: size12.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count80
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@subparagraph=\count85
+\c@figure=\count86
+\c@table=\count87
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+(/usr/local/texlive/2018basic/texmf-dist/tex/latex/base/inputenc.sty
+Package: inputenc 2018/04/06 v1.3b Input encoding file
+\inpenc@prehook=\toks14
+\inpenc@posthook=\toks15
+)
+(/usr/local/texlive/2018basic/texmf-dist/tex/latex/listings/listings.sty
+(/usr/local/texlive/2018basic/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks16
+)
+\lst@mode=\count88
+\lst@gtempboxa=\box26
+\lst@token=\toks17
+\lst@length=\count89
+\lst@currlwidth=\dimen103
+\lst@column=\count90
+\lst@pos=\count91
+\lst@lostspace=\dimen104
+\lst@width=\dimen105
+\lst@newlines=\count92
+\lst@lineno=\count93
+\lst@maxwidth=\dimen106
+
+(/usr/local/texlive/2018basic/texmf-dist/tex/latex/listings/lstmisc.sty
+File: lstmisc.sty 2015/06/04 1.6 (Carsten Heinz)
+\c@lstnumber=\count94
+\lst@skipnumbers=\count95
+\lst@framebox=\box27
+)
+(/usr/local/texlive/2018basic/texmf-dist/tex/latex/listings/listings.cfg
+File: listings.cfg 2015/06/04 1.6 listings configuration
+))
+Package: listings 2015/06/04 1.6 (Carsten Heinz)
+
+(/usr/local/texlive/2018basic/texmf-dist/tex/latex/graphics/color.sty
+Package: color 2016/07/10 v1.1e Standard LaTeX Color (DPC)
+
+(/usr/local/texlive/2018basic/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package color Info: Driver file: pdftex.def on input line 147.
+
+(/usr/local/texlive/2018basic/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+))
+(/usr/local/texlive/2018basic/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2018basic/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2017/06/25 v1.2c Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2018basic/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(/usr/local/texlive/2018basic/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 99.
+)
+\Gin@req@height=\dimen107
+\Gin@req@width=\dimen108
+) (/usr/local/texlive/2018basic/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip10
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+(/usr/local/texlive/2018basic/texmf-dist/tex/latex/float/float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count96
+\float@exts=\toks18
+\float@box=\box28
+\@float@everytoks=\toks19
+\@floatcapt=\box29
+)
+(/usr/local/texlive/2018basic/texmf-dist/tex/generic/babel/babel.sty
+Package: babel 2018/02/14 3.18 The Babel package
+
+(/usr/local/texlive/2018basic/texmf-dist/tex/generic/babel/switch.def
+File: switch.def 2018/02/14 3.18 Babel switching mechanism
+)
+(/usr/local/texlive/2018basic/texmf-dist/tex/generic/babel-german/ngerman.ldf
+Language: ngerman 2018/03/29 v2.10 German support for babel (post-1996 orthogra
+phy)
+
+(/usr/local/texlive/2018basic/texmf-dist/tex/generic/babel-german/ngermanb.ldf
+Language: ngermanb 2018/03/29 v2.10 German support for babel (post-1996 orthogr
+aphy)
+
+(/usr/local/texlive/2018basic/texmf-dist/tex/generic/babel/babel.def
+File: babel.def 2018/02/14 3.18 Babel common definitions
+\babel@savecnt=\count97
+\U@D=\dimen109
+
+(/usr/local/texlive/2018basic/texmf-dist/tex/generic/babel/txtbabel.def)
+\bbl@dirlevel=\count98
+)
+Package babel Info: Making " an active character on input line 121.
+))
+(/usr/local/texlive/2018basic/texmf-dist/tex/generic/babel-german/german.ldf
+Language: german 2018/03/29 v2.10 German support for babel (pre-1996 orthograph
+y)
+
+(/usr/local/texlive/2018basic/texmf-dist/tex/generic/babel-german/germanb.ldf
+Language: germanb 2018/03/29 v2.10 German support for babel (pre-1996 orthograp
+hy)
+))) (./ausarbeitung.aux)
+\openout1 = `ausarbeitung.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 81.
+LaTeX Font Info:    ... okay on input line 81.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 81.
+LaTeX Font Info:    ... okay on input line 81.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 81.
+LaTeX Font Info:    ... okay on input line 81.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 81.
+LaTeX Font Info:    ... okay on input line 81.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 81.
+LaTeX Font Info:    ... okay on input line 81.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 81.
+LaTeX Font Info:    ... okay on input line 81.
+\c@lstlisting=\count99
+
+(/usr/local/texlive/2018basic/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count100
+\scratchdimen=\dimen110
+\scratchbox=\box30
+\nofMPsegments=\count101
+\nofMParguments=\count102
+\everyMPshowfont=\toks20
+\MPscratchCnt=\count103
+\MPscratchDim=\dimen111
+\MPnumerator=\count104
+\makeMPintoPDFobject=\count105
+\everyMPtoPDFconversion=\toks21
+) (/usr/local/texlive/2018basic/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
+(/usr/local/texlive/2018basic/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+)
+(/usr/local/texlive/2018basic/texmf-dist/tex/latex/oberdiek/grfext.sty
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+
+(/usr/local/texlive/2018basic/texmf-dist/tex/generic/oberdiek/kvdefinekeys.sty
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+
+(/usr/local/texlive/2018basic/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+)))
+(/usr/local/texlive/2018basic/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+
+(/usr/local/texlive/2018basic/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+
+(/usr/local/texlive/2018basic/texmf-dist/tex/generic/oberdiek/etexcmds.sty
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+
+(/usr/local/texlive/2018basic/texmf-dist/tex/generic/oberdiek/ifluatex.sty
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)))
+(/usr/local/texlive/2018basic/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
+Package: pdftexcmds 2018/01/30 v0.27 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(/usr/local/texlive/2018basic/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2017/03/15 v3.2 Provides the ifpdf switch
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+38.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 456.
+
+(/usr/local/texlive/2018basic/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <14.4> on input line 85.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 85.
+ [1
+
+{/usr/local/texlive/2018basic/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] (.
+/ausarbeitung.toc
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 3.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 3.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 3.
+)
+\tf@toc=\write3
+\openout3 = `ausarbeitung.toc'.
+
+ (./ausarbeitung.lol)
+\tf@lol=\write4
+\openout4 = `ausarbeitung.lol'.
+
+ [2]
+Overfull \hbox (5.46674pt too wide) in paragraph at lines 98--99
+\OT1/cmr/m/n/12 Auf der Su-che nach ei-nem ge-eig-ne-ten Al-go-rith-mus, der Bi
+l-der ih-rer []Ahnlichkeit
+ []
+
+<./imgs/32mal32-som.png, id=15, 258.9675pt x 254.9525pt>
+File: ./imgs/32mal32-som.png Graphic file (type png)
+<use ./imgs/32mal32-som.png>
+Package pdftex.def Info: ./imgs/32mal32-som.png  used on input line 105.
+(pdftex.def)             Requested size: 140.3969pt x 138.2247pt.
+<./imgs/32x32-flowers.png, id=17, 717.68124pt x 697.60625pt>
+File: ./imgs/32x32-flowers.png Graphic file (type png)
+<use ./imgs/32x32-flowers.png>
+Package pdftex.def Info: ./imgs/32x32-flowers.png  used on input line 112.
+(pdftex.def)             Requested size: 193.04976pt x 187.643pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 100--119
+
+ []
+
+[3 <./imgs/32mal32-som.png> <./imgs/32x32-flowers.png>]
+(/usr/local/texlive/2018basic/texmf-dist/tex/latex/listings/lstlang1.sty
+File: lstlang1.sty 2015/06/04 1.6 listings language file
+)
+Underfull \hbox (badness 10000) in paragraph at lines 121--122
+
+ []
+
+LaTeX Font Info:    Font shape `OT1/cmtt/bx/n' in size <10> not available
+(Font)              Font shape `OT1/cmtt/m/n' tried instead on input line 124.
+
+Underfull \hbox (badness 10000) in paragraph at lines 135--137
+
+ []
+
+[4]
+<./imgs/nmap-colored-data-screenshot.png, id=29, 695.59875pt x 372.39125pt>
+File: ./imgs/nmap-colored-data-screenshot.png Graphic file (type png)
+<use ./imgs/nmap-colored-data-screenshot.png>
+Package pdftex.def Info: ./imgs/nmap-colored-data-screenshot.png  used on input
+ line 145.
+(pdftex.def)             Requested size: 350.99762pt x 187.9055pt.
+ [5 <./imgs/nmap-colored-data-screenshot.png>]
+<./imgs/nmap-ac.png, id=35, 1268.74pt x 632.3625pt>
+File: ./imgs/nmap-ac.png Graphic file (type png)
+<use ./imgs/nmap-ac.png>
+Package pdftex.def Info: ./imgs/nmap-ac.png  used on input line 161.
+(pdftex.def)             Requested size: 350.99762pt x 174.9375pt.
+<./imgs/nmap-ew.png, id=36, 1269.74374pt x 627.34375pt>
+File: ./imgs/nmap-ew.png Graphic file (type png)
+<use ./imgs/nmap-ew.png>
+Package pdftex.def Info: ./imgs/nmap-ew.png  used on input line 168.
+(pdftex.def)             Requested size: 350.99762pt x 173.41508pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<./imgs/nmap-ew_fehler.png, id=37, 1267.73625pt x 639.38875pt>
+File: ./imgs/nmap-ew_fehler.png Graphic file (type png)
+<use ./imgs/nmap-ew_fehler.png>
+Package pdftex.def Info: ./imgs/nmap-ew_fehler.png  used on input line 179.
+(pdftex.def)             Requested size: 157.94785pt x 79.65997pt.
+<./imgs/nmap-ac_fehler.png, id=38, 1270.7475pt x 634.37pt>
+File: ./imgs/nmap-ac_fehler.png Graphic file (type png)
+<use ./imgs/nmap-ac_fehler.png>
+Package pdftex.def Info: ./imgs/nmap-ac_fehler.png  used on input line 186.
+(pdftex.def)             Requested size: 157.94785pt x 78.8411pt.
+
+Overfull \hbox (17.5502pt too wide) in paragraph at lines 174--191
+\OT1/cmtt/m/n/12 Math.random(), y: 50 + Math.random(), weight: 1000 + Math.rand
+om()
+ []
+
+[6 <./imgs/nmap-ac.png>]
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+Overfull \hbox (2.99454pt too wide) in paragraph at lines 193--194
+\OT1/cmr/m/n/12 und da-bei die Nach-bar-schaf-ten der vi-sua-li-sier-ten Ele-me
+n-te gut auf-recht erh[]alt,
+ []
+
+[7 <./imgs/nmap-ew.png>] [8 <./imgs/nmap-ew_fehler.png> <./imgs/nmap-ac_fehler.
+png>]
+<./imgs/rwordle-illustration.png, id=53, 1003.75pt x 1003.75pt>
+File: ./imgs/rwordle-illustration.png Graphic file (type png)
+<use ./imgs/rwordle-illustration.png>
+Package pdftex.def Info: ./imgs/rwordle-illustration.png  used on input line 20
+3.
+(pdftex.def)             Requested size: 272.99881pt x 272.99188pt.
+ [9 <./imgs/rwordle-illustration.png>]
+<./imgs/previous.png, id=58, 547.04375pt x 527.9725pt>
+File: ./imgs/previous.png Graphic file (type png)
+<use ./imgs/previous.png>
+Package pdftex.def Info: ./imgs/previous.png  used on input line 216.
+(pdftex.def)             Requested size: 242.4529pt x 234.00238pt.
+<./imgs/rwordle-concentric.png, id=59, 541.02126pt x 526.96875pt>
+File: ./imgs/rwordle-concentric.png Graphic file (type png)
+<use ./imgs/rwordle-concentric.png>
+Package pdftex.def Info: ./imgs/rwordle-concentric.png  used on input line 222.
+
+(pdftex.def)             Requested size: 240.24599pt x 234.00238pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<./imgs/rwordle-linear.png, id=60, 546.04pt x 527.9725pt>
+File: ./imgs/rwordle-linear.png Graphic file (type png)
+<use ./imgs/rwordle-linear.png>
+Package pdftex.def Info: ./imgs/rwordle-linear.png  used on input line 228.
+(pdftex.def)             Requested size: 242.00804pt x 234.00238pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<./imgs/rwordle-flowers-simple.png, id=61, 708.6475pt x 692.5875pt>
+File: ./imgs/rwordle-flowers-simple.png Graphic file (type png)
+<use ./imgs/rwordle-flowers-simple.png>
+Package pdftex.def Info: ./imgs/rwordle-flowers-simple.png  used on input line 
+236.
+(pdftex.def)             Requested size: 292.5pt x 285.87552pt.
+<./imgs/rwordle-flowers-overlap.png, id=62, 596.2275pt x 583.17876pt>
+File: ./imgs/rwordle-flowers-overlap.png Graphic file (type png)
+<use ./imgs/rwordle-flowers-overlap.png>
+Package pdftex.def Info: ./imgs/rwordle-flowers-overlap.png  used on input line
+ 242.
+(pdftex.def)             Requested size: 292.5pt x 286.09824pt.
+<./imgs/rwordle-flowers-concentric.png, id=63, 788.9475pt x 748.7975pt>
+File: ./imgs/rwordle-flowers-concentric.png Graphic file (type png)
+<use ./imgs/rwordle-flowers-concentric.png>
+Package pdftex.def Info: ./imgs/rwordle-flowers-concentric.png  used on input l
+ine 248.
+(pdftex.def)             Requested size: 292.5pt x 277.6106pt.
+<./imgs/rwordle-flowers-overlap2.png, id=64, 592.2125pt x 586.19pt>
+File: ./imgs/rwordle-flowers-overlap2.png Graphic file (type png)
+<use ./imgs/rwordle-flowers-overlap2.png>
+Package pdftex.def Info: ./imgs/rwordle-flowers-overlap2.png  used on input lin
+e 254.
+(pdftex.def)             Requested size: 292.5pt x 289.53435pt.
+<./imgs/rwordle-flowers-concentric2.png, id=65, 762.85pt x 744.7825pt>
+File: ./imgs/rwordle-flowers-concentric2.png Graphic file (type png)
+<use ./imgs/rwordle-flowers-concentric2.png>
+Package pdftex.def Info: ./imgs/rwordle-flowers-concentric2.png  used on input 
+line 260.
+(pdftex.def)             Requested size: 292.5pt x 285.56593pt.
+
+Overfull \hbox (9.05923pt too wide) in paragraph at lines 232--264
+\OT1/cmr/m/n/12 die er-sten Er-geb-nis-se von \OT1/cmr/m/it/12 RWord-le \OT1/cm
+r/m/n/12 nur m[]a^^Yig gut. Die []Ahnlichkeitsbeziehungen
+ []
+
+[10 <./imgs/previous.png>] [11 <./imgs/rwordle-concentric.png>]
+Overfull \hbox (9.51808pt too wide) in paragraph at lines 265--267
+\OT1/cmr/m/n/12 Algorithmisch mus-ste zur An-ord-nung mit Bil-dern nur we-nig a
+m Co-de ver[]andert
+ []
+
+[12 <./imgs/rwordle-linear.png>] [13 <./imgs/rwordle-flowers-simple.png>]
+[14 <./imgs/rwordle-flowers-overlap.png>] [15 <./imgs/rwordle-flowers-concentri
+c.png>] [16 <./imgs/rwordle-flowers-overlap2.png>] [17 <./imgs/rwordle-flowers-
+concentric2.png>]
+LaTeX Font Info:    Font shape `OT1/cmtt/bx/n' in size <12> not available
+(Font)              Font shape `OT1/cmtt/m/n' tried instead on input line 267.
+
+Underfull \hbox (badness 10000) in paragraph at lines 268--270
+
+ []
+
+[18]
+Overfull \hbox (29.09514pt too wide) in paragraph at lines 306--308
+\OT1/cmr/m/n/12 tung geht. Da \OT1/cmr/m/it/12 RWord-le \OT1/cmr/m/n/12 je-doch
+ ein Al-go-rith-mus zur Ent-fer-nung von []Uberlagerungen
+ []
+
+[19] [20]
+<./imgs/picwall-tree.png, id=109, 207.77625pt x 260.975pt>
+File: ./imgs/picwall-tree.png Graphic file (type png)
+<use ./imgs/picwall-tree.png>
+Package pdftex.def Info: ./imgs/picwall-tree.png  used on input line 328.
+(pdftex.def)             Requested size: 157.94785pt x 198.39482pt.
+<./imgs/picwall-vis.png, id=110, 200.75pt x 251.94125pt>
+File: ./imgs/picwall-vis.png Graphic file (type png)
+<use ./imgs/picwall-vis.png>
+Package pdftex.def Info: ./imgs/picwall-vis.png  used on input line 335.
+(pdftex.def)             Requested size: 157.94785pt x 198.23947pt.
+
+Underfull \hbox (badness 3930) in paragraph at lines 336--336
+[]\OT1/cmr/m/n/12 Abbildung 18: Die An-ord-nung
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 336--336
+\OT1/cmr/m/n/12 der Recht-ecke/-Bil-der nach-dem
+ []
+
+
+Overfull \hbox (24.92001pt too wide) in paragraph at lines 343--343
+[]\OT1/cmr/bx/it/14.4 Tree-based Vi-sua-li-za-ti-on and Op-ti-mi-za-ti-on for I
+mage
+ []
+
+[21 <./imgs/picwall-tree.png> <./imgs/picwall-vis.png>]
+Overfull \hbox (24.87184pt too wide) in paragraph at lines 346--346
+[]\OT1/cmr/bx/it/14.4 Photo Lay-out with a Fast Eva-lua-ti-on Me-thod and Ge-
+ []
+
+[22]
+Underfull \hbox (badness 10000) in paragraph at lines 363--364
+[]\OT1/cmr/m/n/12 NPM-Paket \OT1/cmtt/m/n/12 get-pixels\OT1/cmr/m/n/12 , $\OT1/
+cmtt/m/n/12 https : / / www . npmjs . com / package /
+ []
+
+
+Underfull \hbox (badness 1389) in paragraph at lines 375--378
+[]\OT1/cmr/m/n/12 J. Fan, \OT1/cmr/m/it/12 Pho-to Lay-out with a Fast Eva-lua-t
+i-on Me-thod and Ge-ne-
+ []
+
+
+Underfull \hbox (badness 1168) in paragraph at lines 375--378
+\OT1/cmr/m/it/12 tic Al-go-rithm\OT1/cmr/m/n/12 , 2012 IE-EE In-ter-na-tio-nal 
+Con-fe-rence on Mul-ti-me-dia
+ []
+
+
+Underfull \hbox (badness 1831) in paragraph at lines 375--378
+\OT1/cmr/m/n/12 and Ex-po Work-shops, Mel-bour-ne, VIC, 2012, pp. 308-313. DOI:
+
+ []
+
+[23] (./ausarbeitung.aux) ) 
+Here is how much of TeX's memory you used:
+ 4203 strings out of 494091
+ 59538 string characters out of 6163523
+ 243945 words of memory out of 5000000
+ 7802 multiletter control sequences out of 15000+600000
+ 10569 words of font info for 37 fonts, out of 8000000 for 9000
+ 319 hyphenation exceptions out of 8191
+ 41i,9n,40p,2162b,1712s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/local/texlive/2018basic/texmf-dist/fonts/type1
+/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2018basic/texmf-dist/fonts/t
+ype1/public/amsfonts/cm/cmbxti10.pfb></usr/local/texlive/2018basic/texmf-dist/f
+onts/type1/public/amsfonts/cm/cmmi12.pfb></usr/local/texlive/2018basic/texmf-di
+st/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2018basic/texmf
+-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2018basic/te
+xmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/local/texlive/2018basic
+/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2018b
+asic/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/local/texlive/2
+018basic/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb></usr/local/texli
+ve/2018basic/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt12.pfb>
+Output written on ausarbeitung.pdf (23 pages, 3703248 bytes).
+PDF statistics:
+ 155 PDF objects out of 1000 (max. 8388607)
+ 83 compressed objects within 1 object stream
+ 0 named destinations out of 1000 (max. 500000)
+ 91 words of extra memory for PDF output out of 10000 (max. 10000000)
+
