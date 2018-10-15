@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2018.6.13)  13 OCT 2018 09:24
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2018.6.13)  15 OCT 2018 15:05
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -283,12 +283,15 @@ File: ./imgs/nmap-ac.png Graphic file (type png)
 <use ./imgs/nmap-ac.png>
 Package pdftex.def Info: ./imgs/nmap-ac.png  used on input line 161.
 (pdftex.def)             Requested size: 350.99762pt x 174.9375pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
 <./imgs/nmap-ew.png, id=36, 1269.74374pt x 627.34375pt>
 File: ./imgs/nmap-ew.png Graphic file (type png)
 <use ./imgs/nmap-ew.png>
 Package pdftex.def Info: ./imgs/nmap-ew.png  used on input line 168.
 (pdftex.def)             Requested size: 350.99762pt x 173.41508pt.
-
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
@@ -308,7 +311,7 @@ Overfull \hbox (17.5502pt too wide) in paragraph at lines 174--191
 om()
  []
 
-[6 <./imgs/nmap-ac.png>]
+[6]
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
@@ -318,8 +321,8 @@ Overfull \hbox (2.99454pt too wide) in paragraph at lines 193--194
 n-te gut auf-recht erh[]alt,
  []
 
-[7 <./imgs/nmap-ew.png>] [8 <./imgs/nmap-ew_fehler.png> <./imgs/nmap-ac_fehler.
-png>]
+[7 <./imgs/nmap-ac.png>] [8 <./imgs/nmap-ew.png> <./imgs/nmap-ew_fehler.png> <.
+/imgs/nmap-ac_fehler.png>]
 <./imgs/rwordle-illustration.png, id=53, 1003.75pt x 1003.75pt>
 File: ./imgs/rwordle-illustration.png Graphic file (type png)
 <use ./imgs/rwordle-illustration.png>
@@ -399,6 +402,12 @@ concentric2.png>]
 LaTeX Font Info:    Font shape `OT1/cmtt/bx/n' in size <12> not available
 (Font)              Font shape `OT1/cmtt/m/n' tried instead on input line 267.
 
+Overfull \hbox (0.15266pt too wide) in paragraph at lines 268--270
+\OT1/cmtt/m/n/12 radius[]stepsize \OT1/cmr/m/n/12 ver-wen-det. Die-se de-fi-nie
+-ren, wie ih-re Na-men be-sa-gen, einen
+ []
+
+
 Underfull \hbox (badness 10000) in paragraph at lines 268--270
 
  []
@@ -410,85 +419,142 @@ Overfull \hbox (29.09514pt too wide) in paragraph at lines 306--308
  []
 
 [19] [20]
-<./imgs/picwall-tree.png, id=109, 207.77625pt x 260.975pt>
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 324.
+
+ (/usr/local/texlive/2018basic/texmf-dist/tex/latex/base/omscmr.fd
+File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 324.
+
+[21]
+Overfull \hbox (1.03206pt too wide) in paragraph at lines 335--337
+\OT1/cmr/m/n/12 In den Ab-bil-dun-gen 17[] und 18[] sieht man das Er-geb-nis, w
+o-bei nur ein zuf[]alliger
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 335--337
+
+ []
+
+<./imgs/picwall-tree.png, id=112, 207.77625pt x 260.975pt>
 File: ./imgs/picwall-tree.png Graphic file (type png)
 <use ./imgs/picwall-tree.png>
-Package pdftex.def Info: ./imgs/picwall-tree.png  used on input line 328.
+Package pdftex.def Info: ./imgs/picwall-tree.png  used on input line 342.
 (pdftex.def)             Requested size: 157.94785pt x 198.39482pt.
-<./imgs/picwall-vis.png, id=110, 200.75pt x 251.94125pt>
+<./imgs/picwall-vis.png, id=113, 200.75pt x 251.94125pt>
 File: ./imgs/picwall-vis.png Graphic file (type png)
 <use ./imgs/picwall-vis.png>
-Package pdftex.def Info: ./imgs/picwall-vis.png  used on input line 335.
+Package pdftex.def Info: ./imgs/picwall-vis.png  used on input line 349.
 (pdftex.def)             Requested size: 157.94785pt x 198.23947pt.
 
-Underfull \hbox (badness 3930) in paragraph at lines 336--336
+Underfull \hbox (badness 3930) in paragraph at lines 350--350
 []\OT1/cmr/m/n/12 Abbildung 18: Die An-ord-nung
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 336--336
+Underfull \hbox (badness 10000) in paragraph at lines 350--350
 \OT1/cmr/m/n/12 der Recht-ecke/-Bil-der nach-dem
  []
 
 
-Overfull \hbox (24.92001pt too wide) in paragraph at lines 343--343
+Underfull \hbox (badness 10000) in paragraph at lines 350--350
+\OT1/cmr/m/n/12 wen-dung von al-len $32 \OMS/cmsy/m/n/12 ^^B \OT1/cmr/m/n/12 32
+$
+ []
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<./imgs/picwall-tree-small.png, id=114, 427.5975pt x 582.175pt>
+File: ./imgs/picwall-tree-small.png Graphic file (type png)
+<use ./imgs/picwall-tree-small.png>
+Package pdftex.def Info: ./imgs/picwall-tree-small.png  used on input line 359.
+
+(pdftex.def)             Requested size: 157.94785pt x 215.04605pt.
+<./imgs/picwall-vis-small.png, id=115, 434.62375pt x 584.1825pt>
+File: ./imgs/picwall-vis-small.png Graphic file (type png)
+<use ./imgs/picwall-vis-small.png>
+Package pdftex.def Info: ./imgs/picwall-vis-small.png  used on input line 366.
+(pdftex.def)             Requested size: 157.94785pt x 212.30225pt.
+
+Underfull \hbox (badness 3930) in paragraph at lines 367--367
+[]\OT1/cmr/m/n/12 Abbildung 20: Die An-ord-nung
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 367--367
+\OT1/cmr/m/n/12 der Recht-ecke/-Bil-der nach-dem
+ []
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+Overfull \hbox (24.92001pt too wide) in paragraph at lines 374--374
 []\OT1/cmr/bx/it/14.4 Tree-based Vi-sua-li-za-ti-on and Op-ti-mi-za-ti-on for I
 mage
  []
 
-[21 <./imgs/picwall-tree.png> <./imgs/picwall-vis.png>]
-Overfull \hbox (24.87184pt too wide) in paragraph at lines 346--346
+[22]
+Overfull \hbox (24.87184pt too wide) in paragraph at lines 377--377
 []\OT1/cmr/bx/it/14.4 Photo Lay-out with a Fast Eva-lua-ti-on Me-thod and Ge-
  []
 
-[22]
-Underfull \hbox (badness 10000) in paragraph at lines 363--364
+[23 <./imgs/picwall-tree.png> <./imgs/picwall-vis.png>] [24 <./imgs/picwall-tre
+e-small.png> <./imgs/picwall-vis-small.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 394--395
 []\OT1/cmr/m/n/12 NPM-Paket \OT1/cmtt/m/n/12 get-pixels\OT1/cmr/m/n/12 , $\OT1/
 cmtt/m/n/12 https : / / www . npmjs . com / package /
  []
 
 
-Underfull \hbox (badness 1389) in paragraph at lines 375--378
+Underfull \hbox (badness 1389) in paragraph at lines 406--409
 []\OT1/cmr/m/n/12 J. Fan, \OT1/cmr/m/it/12 Pho-to Lay-out with a Fast Eva-lua-t
 i-on Me-thod and Ge-ne-
  []
 
 
-Underfull \hbox (badness 1168) in paragraph at lines 375--378
+Underfull \hbox (badness 1168) in paragraph at lines 406--409
 \OT1/cmr/m/it/12 tic Al-go-rithm\OT1/cmr/m/n/12 , 2012 IE-EE In-ter-na-tio-nal 
 Con-fe-rence on Mul-ti-me-dia
  []
 
 
-Underfull \hbox (badness 1831) in paragraph at lines 375--378
+Underfull \hbox (badness 1831) in paragraph at lines 406--409
 \OT1/cmr/m/n/12 and Ex-po Work-shops, Mel-bour-ne, VIC, 2012, pp. 308-313. DOI:
 
  []
 
-[23] (./ausarbeitung.aux) ) 
+[25] (./ausarbeitung.aux)
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+ ) 
 Here is how much of TeX's memory you used:
- 4203 strings out of 494091
- 59538 string characters out of 6163523
- 243945 words of memory out of 5000000
- 7802 multiletter control sequences out of 15000+600000
+ 4232 strings out of 494091
+ 60198 string characters out of 6163523
+ 279100 words of memory out of 5000000
+ 7826 multiletter control sequences out of 15000+600000
  10569 words of font info for 37 fonts, out of 8000000 for 9000
  319 hyphenation exceptions out of 8191
- 41i,9n,40p,2162b,1712s stack positions out of 5000i,500n,10000p,200000b,80000s
-</usr/local/texlive/2018basic/texmf-dist/fonts/type1
-/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2018basic/texmf-dist/fonts/t
-ype1/public/amsfonts/cm/cmbxti10.pfb></usr/local/texlive/2018basic/texmf-dist/f
-onts/type1/public/amsfonts/cm/cmmi12.pfb></usr/local/texlive/2018basic/texmf-di
-st/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2018basic/texmf
--dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2018basic/te
-xmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/local/texlive/2018basic
-/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2018b
-asic/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/local/texlive/2
-018basic/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb></usr/local/texli
-ve/2018basic/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt12.pfb>
-Output written on ausarbeitung.pdf (23 pages, 3703248 bytes).
+ 41i,9n,40p,2165b,1712s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/local/texlive/2018basic/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx1
+2.pfb></usr/local/texlive/2018basic/texmf-dist/fonts/type1/public/amsfonts/cm/c
+mbxti10.pfb></usr/local/texlive/2018basic/texmf-dist/fonts/type1/public/amsfont
+s/cm/cmmi12.pfb></usr/local/texlive/2018basic/texmf-dist/fonts/type1/public/ams
+fonts/cm/cmr10.pfb></usr/local/texlive/2018basic/texmf-dist/fonts/type1/public/
+amsfonts/cm/cmr12.pfb></usr/local/texlive/2018basic/texmf-dist/fonts/type1/publ
+ic/amsfonts/cm/cmr17.pfb></usr/local/texlive/2018basic/texmf-dist/fonts/type1/p
+ublic/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2018basic/texmf-dist/fonts/typ
+e1/public/amsfonts/cm/cmti12.pfb></usr/local/texlive/2018basic/texmf-dist/fonts
+/type1/public/amsfonts/cm/cmtt10.pfb></usr/local/texlive/2018basic/texmf-dist/f
+onts/type1/public/amsfonts/cm/cmtt12.pfb>
+Output written on ausarbeitung.pdf (25 pages, 3723506 bytes).
 PDF statistics:
- 155 PDF objects out of 1000 (max. 8388607)
- 83 compressed objects within 1 object stream
+ 166 PDF objects out of 1000 (max. 8388607)
+ 88 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 91 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 101 words of extra memory for PDF output out of 10000 (max. 10000000)
 
